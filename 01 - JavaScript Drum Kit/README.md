@@ -1,4 +1,7 @@
 ## About
+Turn your keyboard into a mini drumkit.
+
+[Try the live demo.](https://cdn.rawgit.com/StephanieCunnane/javascript30/84f72f44/01%20-%20JavaScript%20Drum%20Kit/index.html)
 
 
 #### Resource
