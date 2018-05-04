@@ -1,3 +1,5 @@
+![JavaScript Drum Kit screenshot](screenshot.png)
+
 ## About
 Turn your keyboard into a mini drumkit.
 
