@@ -1,0 +1,40 @@
+/* 
+ * Create and apply CSS variables 
+ */
+
+:root { /* Psuedo-class to select the root element. Like <html> but with higher specificity. */
+  --base: #ffc600;
+  --blur: 10px;
+  --spacing: 50px;
+}
+
+img {
+	background: var(--base);
+	filter: blur(var(--blur));
+	padding: var(--spacing);
+}
+
+.highlight {
+	color: var(--base);
+}
+
+/* 
+ * Remaining page styles, unrelated to CSS variables 
+ */
+
+ body {
+ 	background: #777;
+ 	color: white;
+ 	font-family: Raleway, sans-serif;
+ 	font-size: 30px;
+ 	font-weight: 100;
+ 	text-align: center;
+ }
+
+ .controls {
+ 	margin-bottom: 50px;
+ }
+
+ input {
+ 	width: 100px;
+ }
