@@ -1,3 +1,5 @@
+![Array Cardio Day Day 1](screenshot.png)
+
 ## About
 Deliberate practice with JavaScript. Open up your console to work through 8 array method exercises. (Answers available in app.js in the source code.)
 
