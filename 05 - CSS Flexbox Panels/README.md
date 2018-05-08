@@ -1,3 +1,5 @@
+![CSS Flexbox Panels screenshot](screenshot.png)
+
 ## About
 An example of nested CSS flexboxes - some containers are also flex items within their parent container.
 
