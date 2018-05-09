@@ -1,3 +1,4 @@
+![Typeahead Search with Fetch screenshot](screenshot.png)
 ## About
 A typeahead search example using the Fetch API
 
