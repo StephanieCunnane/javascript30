@@ -1,0 +1,24 @@
+body {
+	font-family: sans-serif;
+}
+
+main {
+	margin: 60px auto;
+	width: 500px;
+}
+
+.sample-data {
+	background: #ddd;
+	border-bottom: 1px solid #666;
+	border-top: 1px solid #666;
+  padding: 15px;
+}
+
+ol {
+	margin-top: 35px;
+	padding-left: 50px;
+}
+
+li {
+	padding-top: 15px;
+}
