@@ -1,3 +1,5 @@
+![Array Cardio Day 2 screenshot](screenshot.png)
+
 ## About
 More deliberate practice with JavaScript, continued from '04 - Array Cardio Day 1' of this repo. Open up your console to work through 4 array method exercises. (Answers available in app.js in the source code.)
 
