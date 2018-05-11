@@ -1,3 +1,4 @@
+![HTML5 Canvas Demo screenshot](screenshot.png)
 ## About
 A simple demo of drawing on an HTML5 2D \<canvas\> element. The canvas is set to the viewport size, so just click anywhere in the viewport to start drawing.
 
