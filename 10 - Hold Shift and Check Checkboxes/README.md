@@ -1,3 +1,5 @@
+![Hold Shift and Check Checkboxes screenshot](screenshot.png)
+
 ## About
 A simple example of a common email client functionality. Press Shift and click a first checkbox, then click a 
 second checkbox a few rows up or down - all the checkboxes in between will now also be checked. 
