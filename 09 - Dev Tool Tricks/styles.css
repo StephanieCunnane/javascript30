@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+  margin: 60px auto;
+  width: 500px;
+}
+
+ol {
+  margin-top: 35px;
+  padding-left: 40px;
+}
+
+li {
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+.make-green {
+  cursor: pointer;
+}
+
+pre {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+code {
+  background: #ddd;
+  border-bottom: 1px solid #666;
+  border-top: 1px solid #666;
+  display: block;
+  padding: 15px;
+}
+
+li > p {
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
