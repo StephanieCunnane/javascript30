@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Dev Tool Tricks</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <h2>Dev Tool Tricks</h2>
+    <p>Time for deliberate practice with Dev Tools! Open up your Chrome console to work through these examples.</p>
+    <ol>
+      <li>Break on attribute modification - a technique for finding the JavaScript that is causing a change to an element
+        <br>
+        <br>
+        <p class="make-green">Right-click on this paragraph and inspect it. Right-click again on the highlighted paragraph in the Elements tab. Select `Break on > attribute modifications`. Then click on this paragraph on the page and you should now be running the debugger. Sweet!</p>
+      </li>
+
+      <li>Console.log() with string interpolation: 
+        (Though you may prefer ES6 template literals)
+        <br>
+        <br>
+        <code>console.log('I am a%s string.', 'n interpolated');</code>
+      </li>
+
+      <li>Console.log() with styled output:
+        <br>
+        <br>
+        <pre><code>console.log('%cI am some styled text.', 
+            'font-size: 50px; background: green;');</code></pre>
+      </li>
+
+      <li>Console.warn():
+        <br>
+        <br>
+        <code>console.warn('Uh oh, a warning!');</code>
+      </li>
+
+      <li>Console.error():
+        <br>
+        <br>
+        <code>console.error('Oh shit, an error!');</code>
+      </li>
+
+      <li>Console.info():
+        <br>
+        <br>
+        <code>console.info('Fun fact: You just printed some info to the console.');</code>
+      </li>
+
+      <li>Console.assert() for testing:
+        <br>
+        <br>
+        <code>console.assert(1 === 2, 'The two numbers are not equal.');</code>
+      </li>
+
+      <li>Console.dir() to see a dropdown list of all the properties available to an element:
+        <br>
+        <br>
+        <code>console.dir(para);</code>
+      </li>
+
+      <li>Console.count():
+        <br>
+        <br>
+        <pre><code>console.count('Red team');
+console.count('Red team');
+console.count('Red team');
+console.count('Red team');
+console.count('Red team');
+console.count('Red team');</code></pre>
+      </li>
+
+      <li>Console.time() to quickly see how long something takes:
+        <br>
+        <br>
+        <pre><code>console.time('fetching data');
+fetch('https://api.github.com/users/stephaniecunnane')
+  .then(data => data.json())
+  .then(data => {
+console.timeEnd('fetching data');
+console.log('fetched data: ', data);
+});</code></pre>
+      </li>
+
+      <li>Console.table() for improved readability:
+        <br>
+        <br>
+        <code>console.table(anArray);</code>
+      </li>
+    </ol>
+    
+    <script src="app.js"></script>
+  </body>
+</html>
