@@ -1,3 +1,4 @@
+![Custom HTML5 Video Player screenshot](screenshot.png)
 ## About
 A custom HTML5 video player with scrubbing, fast-forward and rewind functionality, as well as the ability to adjust playback speed and volume.
 
