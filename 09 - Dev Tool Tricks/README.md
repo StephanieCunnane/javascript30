@@ -1,3 +1,4 @@
+![Dev Tool Tricks screenshot](screenshot.png)
 ## About
 A set of 11 useful dev tool tricks to improve your workflow
 
