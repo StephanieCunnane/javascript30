@@ -1,3 +1,4 @@
+![Konami Code screenshot](screenshot.png)
 ## About
 A simple and funny implementation of an old-school [Konami code](https://en.wikipedia.org/wiki/Konami_Code)
 
