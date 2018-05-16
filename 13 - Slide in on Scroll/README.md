@@ -1,3 +1,4 @@
+![Slide in on Scroll screenshot](screenshot.png)
 ## About
 A page layout in which images slide in from the side as you scroll down the page. Not necessarily a technique to use in production, but a quite useful learning exercise.
 
