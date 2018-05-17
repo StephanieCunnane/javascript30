@@ -1,0 +1,9 @@
+html {
+  background: #c5e2db;
+  font-family: sans-serif;
+}
+
+main {
+  margin: 60px auto;
+  max-width: 500px;
+}
