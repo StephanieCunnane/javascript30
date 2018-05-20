@@ -1,3 +1,4 @@
+![Sorting Without Articles screenshot](screenshot.jpg)
 ## About
 A simple example of temporarily stripping off articles in order to sort a list
 
