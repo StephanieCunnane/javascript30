@@ -1,0 +1,21 @@
+body {
+  background: #c5e2db;
+  font-family: sans-serif;
+}
+
+main {
+  background: white;
+  border-radius: 0.25em;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.6);
+  margin: 60px auto;
+  max-width: 300px;
+  padding: 30px;
+}
+
+p {
+  text-align: center;
+}
+
+li {
+  padding: 5px;
+}
