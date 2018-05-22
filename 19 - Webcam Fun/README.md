@@ -1,3 +1,4 @@
+![Webcam Fun screenshot](screenshot.jpg)
 ## About
 A set of 5 webcam effects:
  - Taking photos
