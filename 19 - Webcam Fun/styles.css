@@ -1,0 +1,57 @@
+html {
+  background: #ffc600;
+  box-sizing: border-box;
+  font-size: 10px;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+.photobooth {
+  background: white;
+  border-radius: 2px;
+  margin: 2rem auto;
+  max-width: 150rem;
+}
+
+/* clearfix */
+.photobooth::after {
+  clear: both;
+  content: '';
+  display: block;
+}
+
+/* <canvas> */
+.photo {
+  float: left;
+  width: 100%;
+}
+
+/* <video> */
+.player {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  width: 200px;
+}
+
+.strip {
+  padding: 2rem;
+}
+
+.strip img {
+  background: white;
+  box-shadow:0 0 3px rgba(0, 0, 0, 0.2);
+  overflow-x: scroll;
+  padding: 0.8rem 0.8rem 2.5rem 0.8rem;
+  width: 100px;
+}
+
+.strip a:nth-child(5n+1) img { transform: rotate(10deg); }
+.strip a:nth-child(5n+2) img { transform: rotate(-2deg); }
+.strip a:nth-child(5n+3) img { transform: rotate(8deg); }
+.strip a:nth-child(5n+4) img { transform: rotate(-11deg); }
+.strip a:nth-child(5n+5) img { transform: rotate(12deg); }
