@@ -1,3 +1,4 @@
+![Speech Detection in the Browser screenshot](screenshot.jpg)
 ## About
 A simple example of native speech recognition in the browser, using the Web Speech API
 
