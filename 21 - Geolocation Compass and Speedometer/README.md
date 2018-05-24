@@ -1,3 +1,4 @@
+![Geolocation Compass and Speedometer screenshot](screenshot.jpg)
 ## About
 A simple compass and speedometer using the Geolocation API.
 
