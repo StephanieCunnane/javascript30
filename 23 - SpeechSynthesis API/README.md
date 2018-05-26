@@ -1,3 +1,4 @@
+![SpeechSynthesis API screenshot](screenshot.jpg)
 ## About
 A simple web app using the SpeechSynthesis API
 
