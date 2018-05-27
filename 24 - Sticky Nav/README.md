@@ -1,3 +1,4 @@
+![Sticky Nav screenshot](screenshot.jpg)
 ## About
 A simple and useful UI example of a sticky navigation bar
 
