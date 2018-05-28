@@ -1,3 +1,4 @@
+![Event Capture and Bubbling screenshot](screenshot.png)
 ## About
 A focused example for experimenting with event capture, bubbling and propagation behavior in JavaScript
 
