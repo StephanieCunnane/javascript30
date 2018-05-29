@@ -1,3 +1,4 @@
+![Stripe Follow-Along Nav](screenshot.png)
 ## About
 A UI example inspired by [the Stripe website](https://stripe.com/). As you hover over each list item in the top nav bar, a dropdown appears. That dropdown's background then appears to flow continuously behind the other dropdowns.
 
