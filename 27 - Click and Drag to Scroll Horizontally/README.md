@@ -1,3 +1,4 @@
+![Click and Drag to Scroll Horizontally screenshot](screenshot.png)
 ## About
 A UI example showing how a click and drag horizontal scroll works under the hood 
 
