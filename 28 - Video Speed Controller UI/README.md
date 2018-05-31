@@ -1,3 +1,4 @@
+![Video Speed Controller UI](screenshot.png)
 ## About
 A simple UI example to quickly adjust video playback rate
 
