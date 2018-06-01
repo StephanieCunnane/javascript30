@@ -1,3 +1,4 @@
+![Countdown Timer screenshot](screenshot.png)
 ## About
 A countdown timer with 5 buttons for different predefined time inputs, as well as a form for handling custom time input.
 
